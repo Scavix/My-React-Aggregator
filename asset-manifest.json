@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-react-aggregator/static/css/main.492e1e85.css",
+    "main.js": "/my-react-aggregator/static/js/main.6df8b3b1.js",
+    "index.html": "/my-react-aggregator/index.html",
+    "main.492e1e85.css.map": "/my-react-aggregator/static/css/main.492e1e85.css.map",
+    "main.6df8b3b1.js.map": "/my-react-aggregator/static/js/main.6df8b3b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.492e1e85.css",
+    "static/js/main.6df8b3b1.js"
+  ]
+}
