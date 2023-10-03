@@ -10,7 +10,8 @@ function App() {
         'https://scavix.github.io/cs_resources.html',
         'https://scavix.github.io/math_resources.html',
         'https://scavix.github.io/cs_utilities.html',
-        'https://scavix.github.io/science_resources.html'
+        'https://scavix.github.io/science_resources.html',
+        'https://scavix.github.io/generic_utilities.html'
       ];
       const responses = await Promise.all(urls.map((url) => fetch(url)));
       const htmls = await Promise.all(responses.map((response) => response.text()));
